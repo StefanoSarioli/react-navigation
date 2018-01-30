@@ -92,6 +92,8 @@ const styles = StyleSheet.create({
   item: {
     flexDirection: 'row',
     alignItems: 'center',
+    borderBottomWidth: 1,
+    borderColor: '#E0E0E0'
   },
   icon: {
     marginHorizontal: 16,
